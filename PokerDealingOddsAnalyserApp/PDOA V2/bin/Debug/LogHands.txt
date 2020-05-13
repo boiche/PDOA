@@ -1,0 +1,11 @@
+Flop Data:
+     High card: 0
+     One pair: 0
+     Two pairs: 0
+     Sets: 0
+     Straights: 0
+     Flushes: 0
+     Full houses: 0
+     Quads: 0
+     Straight flushes: 0
+     Royal flushes: 0

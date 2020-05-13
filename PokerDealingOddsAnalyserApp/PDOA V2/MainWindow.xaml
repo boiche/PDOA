@@ -1,0 +1,19 @@
+﻿<Window x:Class="PDOA_V2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PDOA_V2"
+        mc:Ignorable="d"
+        Title="Poker Dealing Odds Analyser" Height="1080" Width="1920" WindowStyle="ThreeDBorderWindow" WindowState="Maximized"
+        Icon="C:\Users\35988\Pictures\logoBackground.png"
+        >
+    <Window.Effect>
+        <DropShadowEffect/>
+    </Window.Effect>
+    <Grid>
+        <Button Content="Texas Hold'em" x:Name="TexasHoldEm" HorizontalAlignment="Left" Height="43" Margin="122,137,0,0" VerticalAlignment="Top" Width="133" RenderTransformOrigin="0.5,0.5" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Click="Button_Click"/>
+        <Label x:Name="exceptionLabel" HorizontalAlignment="Left" Margin="276,396,0,0" VerticalAlignment="Top" Height="45" Width="330"/>
+
+    </Grid>
+</Window>

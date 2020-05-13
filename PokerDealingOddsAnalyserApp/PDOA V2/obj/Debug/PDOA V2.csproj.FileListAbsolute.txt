@@ -1,0 +1,23 @@
+C:\Users\35988\source\repos\PokerDealingOddsAnalyserApp\PDOA V2\bin\Debug\PDOA V2.exe.config
+C:\Users\35988\source\repos\PokerDealingOddsAnalyserApp\PDOA V2\bin\Debug\PDOA V2.exe
+C:\Users\35988\source\repos\PokerDealingOddsAnalyserApp\PDOA V2\bin\Debug\PDOA V2.pdb
+C:\Users\35988\source\repos\PokerDealingOddsAnalyserApp\PDOA V2\obj\Debug\PDOA V2.csprojAssemblyReference.cache
+C:\Users\35988\source\repos\PokerDealingOddsAnalyserApp\PDOA V2\obj\Debug\MainWindow.g.cs
+C:\Users\35988\source\repos\PokerDealingOddsAnalyserApp\PDOA V2\obj\Debug\App.g.cs
+C:\Users\35988\source\repos\PokerDealingOddsAnalyserApp\PDOA V2\obj\Debug\PDOA V2_MarkupCompile.cache
+C:\Users\35988\source\repos\PokerDealingOddsAnalyserApp\PDOA V2\obj\Debug\PDOA V2_MarkupCompile.lref
+C:\Users\35988\source\repos\PokerDealingOddsAnalyserApp\PDOA V2\obj\Debug\MainWindow.baml
+C:\Users\35988\source\repos\PokerDealingOddsAnalyserApp\PDOA V2\obj\Debug\PDOA V2.g.resources
+C:\Users\35988\source\repos\PokerDealingOddsAnalyserApp\PDOA V2\obj\Debug\PDOA_V2.Properties.Resources.resources
+C:\Users\35988\source\repos\PokerDealingOddsAnalyserApp\PDOA V2\obj\Debug\PDOA V2.csproj.GenerateResource.cache
+C:\Users\35988\source\repos\PokerDealingOddsAnalyserApp\PDOA V2\obj\Debug\PDOA V2.exe
+C:\Users\35988\source\repos\PokerDealingOddsAnalyserApp\PDOA V2\obj\Debug\PDOA V2.pdb
+C:\Users\35988\source\repos\PokerDealingOddsAnalyserApp\PDOA V2\obj\Debug\PDOA V2.csproj.CopyComplete
+C:\Users\35988\source\repos\PokerDealingOddsAnalyserApp\PDOA V2\bin\Debug\PokerDealingOddsAnalyser.Core.dll
+C:\Users\35988\source\repos\PokerDealingOddsAnalyserApp\PDOA V2\bin\Debug\PokerDealingOddsAnalyser.Core.pdb
+C:\Users\35988\source\repos\PokerDealingOddsAnalyserApp\PDOA V2\obj\Debug\PDOA V2.csproj.CoreCompileInputs.cache
+C:\Users\35988\source\repos\PokerDealingOddsAnalyserApp\PDOA V2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\35988\source\repos\PokerDealingOddsAnalyserApp\PDOA V2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\35988\source\repos\PokerDealingOddsAnalyserApp\PDOA V2\bin\Debug\PokerDealingOddsAnalyserApp.pdb
+C:\Users\35988\source\repos\PokerDealingOddsAnalyserApp\PDOA V2\bin\Debug\PokerDealingOddsAnalyserApp.dll
+C:\Users\35988\source\repos\PokerDealingOddsAnalyserApp\PDOA V2\bin\Debug\PokerDealingOddsAnalyserApp.dll.config

@@ -1,0 +1,95 @@
+[
+  {
+    "DealNumber": "b5833758-aef2-4fc8-ae6e-3c5ef8d965ec",
+    "TimeDealt": "2020-05-09T14:56:16.381811Z",
+    "DealsCount": 10,
+    "PlayerHand": "9c-9h",
+    "DealData": [
+      {
+        "Flop": {
+          "HighCard": 0,
+          "Pair": 9,
+          "TwoPairs": 0,
+          "Set": 0,
+          "Straight": 0,
+          "Flush": 0,
+          "FullHouse": 1,
+          "Quads": 0,
+          "StraightFlush": 0,
+          "RoyalFlush": 0
+        }
+      },
+      {
+        "Turn": {
+          "HighCard": 0,
+          "Pair": 8,
+          "TwoPairs": 1,
+          "Set": 0,
+          "Straight": 0,
+          "Flush": 0,
+          "FullHouse": 1,
+          "Quads": 0,
+          "StraightFlush": 0,
+          "RoyalFlush": 0
+        }
+      },
+      {
+        "River": {
+          "HighCard": 0,
+          "Pair": 5,
+          "TwoPairs": 3,
+          "Set": 2,
+          "Straight": 0,
+          "Flush": 0,
+          "FullHouse": 0,
+          "Quads": 0,
+          "StraightFlush": 0,
+          "RoyalFlush": 0
+        }
+      },
+      {
+        "Win": [
+          {
+            "PlayingHand": [
+              {
+                "Rank": 9,
+                "Suit": 4
+              },
+              {
+                "Rank": 9,
+                "Suit": 1
+              }
+            ],
+            "WonGames": 5
+          },
+          {
+            "PlayingHand": [
+              {
+                "Rank": 10,
+                "Suit": 2
+              },
+              {
+                "Rank": 11,
+                "Suit": 2
+              }
+            ],
+            "WonGames": 2
+          },
+          {
+            "PlayingHand": [
+              {
+                "Rank": 6,
+                "Suit": 1
+              },
+              {
+                "Rank": 14,
+                "Suit": 2
+              }
+            ],
+            "WonGames": 3
+          }
+        ]
+      }
+    ]
+  }
+]

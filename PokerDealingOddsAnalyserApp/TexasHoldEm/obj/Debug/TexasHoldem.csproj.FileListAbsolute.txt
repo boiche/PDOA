@@ -1,0 +1,33 @@
+C:\Users\35988\Documents\PDOA\v.1.0\Source\PokerDealingOddsAnalyserApp\bin\Debug\PokerDealingOddsAnalyserApp.exe.config
+C:\Users\35988\Documents\PDOA\v.1.0\Source\PokerDealingOddsAnalyserApp\bin\Debug\PokerDealingOddsAnalyserApp.exe
+C:\Users\35988\Documents\PDOA\v.1.0\Source\PokerDealingOddsAnalyserApp\bin\Debug\PokerDealingOddsAnalyserApp.pdb
+C:\Users\35988\Documents\PDOA\v.1.0\Source\PokerDealingOddsAnalyserApp\obj\Debug\TexasHoldEm.csprojAssemblyReference.cache
+C:\Users\35988\Documents\PDOA\v.1.0\Source\PokerDealingOddsAnalyserApp\obj\Debug\PokerDealingOddsAnalyserApp.Properties.Resources.resources
+C:\Users\35988\Documents\PDOA\v.1.0\Source\PokerDealingOddsAnalyserApp\obj\Debug\TexasHoldEm.csproj.GenerateResource.cache
+C:\Users\35988\Documents\PDOA\v.1.0\Source\PokerDealingOddsAnalyserApp\obj\Debug\TexasHoldEm.csproj.CopyComplete
+C:\Users\35988\Documents\PDOA\v.1.0\Source\PokerDealingOddsAnalyserApp\obj\Debug\PokerDealingOddsAnalyserApp.exe
+C:\Users\35988\Documents\PDOA\v.1.0\Source\PokerDealingOddsAnalyserApp\obj\Debug\PokerDealingOddsAnalyserApp.pdb
+C:\Users\35988\Documents\PDOA\v.1.0\Source\PokerDealingOddsAnalyserApp\bin\Debug\PokerDealingOddsAnalyser.TexasHoldEm.dll
+C:\Users\35988\Documents\PDOA\v.1.0\Source\PokerDealingOddsAnalyserApp\bin\Debug\PokerDealingOddsAnalyser.TexasHoldEm.pdb
+C:\Users\35988\Documents\PDOA\v.1.0\Source\PokerDealingOddsAnalyserApp\obj\Debug\TexasHoldEm.TexasHoldEm.resources
+C:\Users\35988\source\repos\PokerDealingOddsAnalyserApp\TexasHoldEm\bin\Debug\PokerDealingOddsAnalyserApp.pdb
+C:\Users\35988\source\repos\PokerDealingOddsAnalyserApp\TexasHoldEm\obj\Debug\TexasHoldem.csprojAssemblyReference.cache
+C:\Users\35988\source\repos\PokerDealingOddsAnalyserApp\TexasHoldEm\obj\Debug\PokerDealingOddsAnalyserApp.Properties.Resources.resources
+C:\Users\35988\source\repos\PokerDealingOddsAnalyserApp\TexasHoldEm\obj\Debug\TexasHoldem.csproj.GenerateResource.cache
+C:\Users\35988\source\repos\PokerDealingOddsAnalyserApp\TexasHoldEm\obj\Debug\TexasHoldem.csproj.CopyComplete
+C:\Users\35988\source\repos\PokerDealingOddsAnalyserApp\TexasHoldEm\obj\Debug\PokerDealingOddsAnalyserApp.pdb
+C:\Users\35988\source\repos\PokerDealingOddsAnalyserApp\PDOA V2\bin\Debug\Pictures\PokerDealingOddsAnalyserApp.exe.config
+C:\Users\35988\source\repos\PokerDealingOddsAnalyserApp\PDOA V2\bin\Debug\Pictures\PokerDealingOddsAnalyserApp.exe
+C:\Users\35988\source\repos\PokerDealingOddsAnalyserApp\PDOA V2\bin\Debug\Pictures\PokerDealingOddsAnalyserApp.pdb
+C:\Users\35988\source\repos\PokerDealingOddsAnalyserApp\TexasHoldEm\bin\Debug\PokerDealingOddsAnalyser.Core.dll
+C:\Users\35988\source\repos\PokerDealingOddsAnalyserApp\TexasHoldEm\bin\Debug\PokerDealingOddsAnalyser.Core.pdb
+C:\Users\35988\source\repos\PokerDealingOddsAnalyserApp\TexasHoldEm\obj\Debug\PokerDealingOddsAnalyserApp.FullReportWindow.resources
+C:\Users\35988\source\repos\PokerDealingOddsAnalyserApp\TexasHoldEm\obj\Debug\TexasHoldEm.TexasHoldEmForm.resources
+C:\Users\35988\source\repos\PokerDealingOddsAnalyserApp\TexasHoldEm\obj\Debug\TexasHoldem.csproj.CoreCompileInputs.cache
+C:\Users\35988\source\repos\PokerDealingOddsAnalyserApp\TexasHoldEm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\35988\source\repos\PokerDealingOddsAnalyserApp\TexasHoldEm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\35988\source\repos\PokerDealingOddsAnalyserApp\TexasHoldEm\obj\Debug\PokerDealingOddsAnalyserApp.RetreiveCardsForm.resources
+C:\Users\35988\source\repos\PokerDealingOddsAnalyserApp\TexasHoldEm\bin\Debug\PokerDealingOddsAnalyserApp.dll.config
+C:\Users\35988\source\repos\PokerDealingOddsAnalyserApp\TexasHoldEm\bin\Debug\PokerDealingOddsAnalyserApp.dll
+C:\Users\35988\source\repos\PokerDealingOddsAnalyserApp\TexasHoldEm\obj\Debug\PokerDealingOddsAnalyserApp.dll
+C:\Users\35988\source\repos\PokerDealingOddsAnalyserApp\TexasHoldEm\obj\Debug\PokerDealingOddsAnalyserApp.HistoryForm.resources
